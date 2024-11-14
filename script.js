@@ -5,40 +5,40 @@ let userName = prompt ('What did your parents write as your name on your birth c
 //first adjective variable//
 let firstAdjective = prompt ('Conceive of a suitable descriptive term')
 
-//Name variable//
+//body part variable//
 let bodyPart = prompt ('Specify an anatomical feature')
 
-//Name variable//
+//adjective variable//
 let secondAdjective = prompt ('Conceive of a suitable descriptive term')
 
-//Name variable//
+//adjective variable//
 let thirdAdjective = prompt ('Conceive of a suitable descriptive term')
 
-//Name variable//
+//verb variable//
 let firstVerb = prompt ('Conjure an appropriate action term')
 
-//Name variable//
+//animal variable//
 let animal = prompt ('Identify a creature from the animal kingdom')
 
-//Name variable//
+//vehicle variable//
 let vehicle = prompt ('Envision a mode of transport')
 
-//Name variable//
+//verb variable//
 let secondVerb = prompt ('Conjure an appropriate action term')
 
-//Name variable//
+//subject variable//
 let schoolClass = prompt ('Conjure an educational subject')
 
-//Name variable//
+//body part variable//
 let secondBodyPart = prompt ('Specify an anatomical feature')
 
-//Name variable//
+//time variable//
 let time = prompt ('Indicate a span of time, i.e. 2 minutes')
 
-//Name variable//
+//bad location variable//
 let place = prompt ('Identify a location that evokes disdain')
 
-//Name variable//
+//bad adjective variable//
 let negAdjecticve = prompt ('Select an adjective that conveys negativity or unfavorable qualities')
 
 
