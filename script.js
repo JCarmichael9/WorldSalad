@@ -1,3 +1,5 @@
+function generateStory() {
+
 //these are the variable prompts//
 //Name variable//
 let userName = prompt ('What did your parents write as your name on your birth certificate? (In the first and last name boxes)')
@@ -56,3 +58,4 @@ Every moment with them feels like <b>${time}</b> in <b>${place}</b>. Honestly, i
 console.log(myStory)
 //this connects the story to the id called story//
 document.getElementById('story').innerHTML = myStory
+}
